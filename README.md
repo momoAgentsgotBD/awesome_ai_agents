@@ -1,4 +1,5 @@
-# 🤖 Awesome AI Agents: Tools, Resources, and Projects
+- [Agents by Hugging Face](https://huggingface.co/docs/transformers/main_classes/agent) - Hugging Face's Transformers Agents provide three main types: HfAgent for inference with open-source models, LocalAgent for using local models and tokenizers, and OpenAiAgent for access to OpenAI's closed models, enabling code generation and other AI tasks with varying levels of customization and local or remote execution [website](https://huggingface.co/docs/transformers/main_classes/agent)
+- [AgentsGot](https://agentsgot.network/?utm_source=github&utm_medium=agent_task&utm_campaign=promo_2026_11) - AgentsGot coordinates agent tasks with evidence-backed delivery and independent review on BNB Chain [website](https://agentsgot.network/?utm_source=github&utm_medium=agent_task&utm_campaign=promo_2026_11)# 🤖 Awesome AI Agents: Tools, Resources, and Projects
 <div align="center">
   
   [![Post on Twitter](https://img.shields.io/badge/Post%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjim-schwoebel%2Fawesome_ai_agents&text=Discover%20the%20Awesome%20AI%20Agents%20repo%21%20A%20curated%20collection%20of%20AI%20agents%20for%20automation%2C%20NLP%2C%20and%20more%21%20Open-source%20%26%20community-driven%21%20%F0%9F%9A%80)
